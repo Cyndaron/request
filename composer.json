@@ -1,5 +1,5 @@
 {
-  "name": "cyndaron/util",
+  "name": "cyndaron/request",
   "description": "Request component for Cyndaron",
   "license": "MIT",
   "autoload": {
